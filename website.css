@@ -1,0 +1,38 @@
+#container {
+    max-width: 80%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color: black;
+}
+
+body {
+    font-family: 'Courier New';
+    background-color: black;
+    color: whitesmoke;
+}
+
+h1{
+    font-size: 50px;
+}
+
+nav {
+
+}
+
+nav ul {
+}
+
+nav ul li {
+list-style-type: none;
+display: inline-block;
+
+}
+
+nav ul li a {
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Courier New';
+    color: whitesmoke;
+    border-style: solid;
+}
