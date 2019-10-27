@@ -36,10 +36,19 @@ nav ul li a {
     font-family: 'Courier New';
     color: whitesmoke;
     border-style: solid;
+    border-radius: 8px;
 }
 
-div.box {
-    max-width: 5px;
-    max-height: 10px;
-    border-color: white;
+div {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    display: inline-block;
+    border-style: solid;
+    border-color: whitesmoke;
+    border-radius: 8px;
+}
+
+figcaption {
+    font-size: 10pt;
 }
