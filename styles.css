@@ -37,3 +37,9 @@ nav ul li a {
     color: whitesmoke;
     border-style: solid;
 }
+
+div.box {
+    max-width: 5px;
+    max-height: 10px;
+    border-color: white;
+}
